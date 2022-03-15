@@ -12,6 +12,7 @@
 
 Universal human values syllabus for 1st mid term 2022
 
+```
 Quants:
 Speed maths, percentage, ratio, time and work, average, speed time and distance,
 
@@ -22,6 +23,7 @@ Rearrangement of Sentences
 Idioms and Phrases
 
 Indian Polity Syllabus:
+
 1. Central Legislature
 2. State Legislature
 3. Indian Judiciary
@@ -34,3 +36,5 @@ Delhi Sultanate
 
 Geography:
 Rivers of India
+```
+
