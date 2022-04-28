@@ -1,9 +1,11 @@
 # 4thSem - UEMK
 
 ---------------------------------------------------------------------------------------------
+
 2nd MID TERM ROUTINE - [SECOND MID TERM](/TERM_II%20_ROUTINE.pdf)
 FINAL SEM ROUTINE - [END SEM](/FINAL_ROUTINE.pdf)
----------------------------------------------------------------------------------------------
+
+------
 
 Universal human values syllabus till 1st mid term 2022
 
@@ -32,4 +34,3 @@ Delhi Sultanate
 Geography:
 Rivers of India
 ```
-
