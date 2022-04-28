@@ -2,8 +2,8 @@
 
 ---------------------------------------------------------------------------------------------
 
-2nd MID TERM ROUTINE - [SECOND MID TERM](/TERM_II%20_ROUTINE.pdf)
-FINAL SEM ROUTINE - [END SEM](/FINAL_ROUTINE.pdf)
+1. 2nd MID TERM ROUTINE - [SECOND MID TERM](/TERM_II%20_ROUTINE.pdf)
+2. FINAL SEM ROUTINE - [END SEM](/FINAL_ROUTINE.pdf)
 
 ------
 
