@@ -1,6 +1,8 @@
 # 4thSem - UEMK
 
 
+2nd MID TERM ROUTINE - [SECOND MID TERM](/2ndMIDTERM.pdf)
+
 Universal human values syllabus till 1st mid term 2022
 
 ```
