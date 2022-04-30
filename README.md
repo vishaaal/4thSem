@@ -4,6 +4,7 @@
 
 1. 2nd MID TERM ROUTINE - [SECOND MID TERM](/TERM_II%20_ROUTINE.pdf)
 2. FINAL SEM ROUTINE - [END SEM](/FINAL_ROUTINE.pdf)
+3. Practical Exam Routine - [Practical](/2nd%20year_CSE_Practical_Sessional_Exam_Schedule_May2022.pdf)
 
 ------
 
