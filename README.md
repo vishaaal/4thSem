@@ -8,17 +8,19 @@
 
 ------
 
-Universal human values syllabus till 1st mid term 2022
+Universal human values syllabus 
 
 ```
 Quants:
-Speed maths, percentage, ratio, time and work, average, speed time and distance,
+Speed maths, percentage, ratio, time and work, average, speed time and distance
 
 English:
 Concepts and Applications of Adjectives
 Concepts and Applications of Adverbs
 Rearrangement of Sentences
 Idioms and Phrases
+Narration
+Speech
 
 Indian Polity Syllabus:
 
@@ -28,9 +30,13 @@ Indian Polity Syllabus:
 
 Economics Syllabus:
 Tax
+Bop
+Industry
 
 History: 
 Delhi Sultanate
+Early Muslim Invasion
+Bhakti and Sufi Movement
 
 Geography:
 Rivers of India
